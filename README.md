@@ -1,1 +1,3 @@
-This is the se devops repo
+#!/bin/bash
+This is shell basics repo.
+
